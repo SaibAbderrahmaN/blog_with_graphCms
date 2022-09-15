@@ -7,4 +7,5 @@ export { default as Categories } from './Categories';
 export {default as PostWidget} from './PostWidget.jsx';
 export {default as Header} from './Header.jsx';
 export { default as Layout } from './Layout.jsx' ;
+export { default as Loader } from './Loader.jsx' ;
 export { default as FeaturedPostCard} from './FeaturedPostCard' ;
